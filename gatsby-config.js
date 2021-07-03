@@ -6,6 +6,7 @@
 
 module.exports = {
   /* Your site config here */
+  pathPrefix: "/showcase",
   plugins: [
     `gatsby-plugin-react-helmet`,
   ],
